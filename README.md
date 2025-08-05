@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-keveIy&color=1338BE" alt="Visitor Count"/>
+  <img src="https://komarev.com/ghpvc/?username=your-keveIy&color=1338BE&style=plastic" alt="Visitor Count"/>
 </div>
 
 
